@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a old branch is quick.
 Creating test.
 Test no fast forword.
+Test fast forward.
