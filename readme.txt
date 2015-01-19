@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a old branch is quick.
 Creating test.
+Test no fast forword.
