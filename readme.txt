@@ -7,3 +7,4 @@ Creating test.
 Test no fast forword.
 Test fast forward.
 To fix bug 102 is to add a line here.
+test.
